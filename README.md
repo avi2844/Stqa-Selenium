@@ -34,3 +34,16 @@ Finally, go to the project directory and run the following command: \
 `node main.js`
 
 Then open the browser and go to localhost:8888
+
+The user interface is shown below:
+
+![1](https://user-images.githubusercontent.com/68266703/121804351-54b46500-cc5f-11eb-85dd-9248b4def69c.png)
+
+
+A walkthrough of the application:
+
+
+https://user-images.githubusercontent.com/68266703/121805058-e07bc080-cc62-11eb-90ce-81d3ca948f6a.mp4
+
+
+
